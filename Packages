@@ -75,7 +75,7 @@ SHA256: 36f1cfdbf93ff395c55e0bf9ed72eeeca3578d5e4c70aaa91765da8297e9a353
 Icon: https://modzteam.github.io/ModzTeamRepo/assets/icon/SubwaySurfersIcon.png
 Filename: https://modzteam.github.io/ModzTeamRepo/debs/com.dollazyt.subwaysurfers_2.20.1_iphoneos-arm.deb
 Depiction: https://modzteam.github.io/ModzTeamRepo/depiction/com.dollazyt.subwaysurfers_2.20.1_iphoneos-arm/SubwaySurfers.html
-SileoDepiction: hhttps://modzteam.github.io/ModzTeamRepo/depiction/json/SubwaySurfers.json
+SileoDepiction: https://modzteam.github.io/ModzTeamRepo/depiction/json/SubwaySurfers.json
 ModernDepiction: https://modzteam.github.io/ModzTeamRepo/depiction/json/SubwaySurfers.json
 
 Package: com.level3tjg.bfdecrypt
