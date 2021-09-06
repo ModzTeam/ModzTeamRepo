@@ -12,7 +12,7 @@ Size: 420608
 MD5: 82b7d4ba6bb6b73d23cc6225d25d647f
 SHA1: f98769b86365a4f59a4010a45383291f34d0b92e
 SHA256: 3a273b5142c15bb3a0ed0de2da63d0ef3f338f042d7a674c89e32a187235ea25
-Icon: hhttps://modzteam.github.io/ModzTeamRepo/assets/icon/CSR2Icon.png
+Icon: https://modzteam.github.io/ModzTeamRepo/assets/icon/CSR2Icon.png
 Filename: https://modzteam.github.io/ModzTeamRepo//debs/com.dollaz.csr2_2.18.2_iphoneos-arm.deb
 Depiction: https://modzteam.github.io/ModzTeamRepo/depiction/com.dollaz.csr2_2.18.2_iphoneos-arm/CSR2.html
 SileoDepiction: https://modzteam.github.io/ModzTeamRepo/depiction/json/CSR2.json
@@ -52,7 +52,7 @@ Size: 133082
 MD5: 6d88f10b5ad70548adaa2064c3d9d69d
 SHA1: 2deaad96884968c803552cb607b16c8942d1325d
 SHA256: dc19443911ed2e266adf47f53c2f8e1251c5e649c94ec6ee0ffc755186a9ce5d
-Icon: hhttps://modzteam.github.io/ModzTeamRepo/assets/icon/BCWIcon.png
+Icon: https://modzteam.github.io/ModzTeamRepo/assets/icon/BCWIcon.png
 Filename: https://modzteam.github.io/ModzTeamRepo/debs/com.dollaz.blockcitywars_7.2.2_iphoneos-arm.deb
 Depiction: https://modzteam.github.io/ModzTeamRepo/depictions/com.dollaz.blockcitywars_7.2.2_iphoneos-arm/BCW.html
 SileoDepiction: https://modzteam.github.io/ModzTeamRepo/depiction/json/BCW.json
