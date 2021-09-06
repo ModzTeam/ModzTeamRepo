@@ -78,47 +78,6 @@ Depiction: https://modzteam.github.io/ModzTeamRepo/depiction/com.dollazyt.subway
 SileoDepiction: hhttps://modzteam.github.io/ModzTeamRepo/depiction/json/SubwaySurfers.json
 ModernDepiction: https://modzteam.github.io/ModzTeamRepo/depiction/json/SubwaySurfers.json
 
-Package: com.gamegod.igg
-Name: iGameGod 
-Architecture: iphoneos-arm
-Depends: applist, mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.3) | firmware (<< 7.0)
-Description: Be the god of your games. Find and edit scores, money, gems, and more in your favorite games.
-Maintainer: iGameGod
-Author: iGameGod
-Section: Tool
-Version: 0.1.1
-Installed-Size: 306976
-Size: 64370650
-MD5: 9ddb174387e21c69eb52f094e52d9e84
-SHA1: 333b634c800c4af4c4a56b85daab45e94a12593b
-SHA256: 8b77c0becd650f970dc276c4e1bb509de767e2f4702d53824a60eba4eff56bd1
-Icon: https://modzteam.github.io/ModzTeamRepo/assets/icon/IGGIcon.png
-Filename: https://modzteam.github.io/ModzTeamRepo/debs/com.gamegod.igg_0.1.1_iphoneos-arm.deb
-Depiction: https://modzteam.github.io/ModzTeamRepo/depiction/com.gamegod.igg_0.1.1_iphoneos-arm/iGameGod.html
-SileoDepiction: https://modzteam.github.io/ModzTeamRepo/depiction/json/IGG.json
-ModernDepiction: https://modzteam.github.io/ModzTeamRepo/depiction/json/IGG.json
-
-Package: com.hackyouriphone.libertybeta
-Name: Liberty Lite (Beta)
-Version: 0.2.12
-Depends: mobilesubstrate, preferenceloader, applist | com.hackyouriphone.applist
-Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
-Architecture: iphoneos-arm
-Author: Ryley Angus <repo@hackyouriphone.org>
-Section: Tool
-Description: Jailbreak detection bypass (works on codm).
-Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=libertybeta
-Maintainer: HackYouriPhone <repo@hackyouriphone.org>
-Size: 81772
-MD5sum: bfc82db7d1255ef02d283b41b4abbe13
-SHA1: f98769b86365a4f59a4010a45383291f34d0b92e
-SHA256: 3a273b5142c15bb3a0ed0de2da63d0ef3f338f042d7a674c89e32a187235ea25
-Icon: https://modzteam.github.io/ModzTeamRepo/assets/icon/LibertyIcon.png
-Filename: https://modzteam.github.io/ModzTeamRepo/debs/com.hackyouriphone.libertybeta_0.2.12_iphoneos-arm.deb
-Depiction: https://modzteam.github.io/ModzTeamRepo/depiction/?p=com.hackyouriphone.libertybeta_0.2.12_iphoneos-arm/Liberty.html
-SileoDepiction: https://modzteam.github.io/ModzTeamRepo/depiction/json/Liberty.json
-ModernDepiction: https://modzteam.github.io/ModzTeamRepo/depiction/json/Liberty.json
-
 Package: com.level3tjg.bfdecrypt
 Name: BFDecrypt
 Version: 1.3.3-1
